@@ -2,8 +2,8 @@
 Changelog for package building_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.18 (2016-05-29)
+-------------------
 * Add changelog
 * Contributors: Mickael Gaillard
 
