@@ -5,7 +5,7 @@ from catkin_pkg.python_setup import generate_distutils_setup
 
 # fetch values from package.xml
 setup_args = generate_distutils_setup(
-    packages=['building_msgs'],
+    packages=['smarthome_comm_msgs'],
     package_dir={'': 'script'},
     requires=['std_msgs', 'rospy'])
 

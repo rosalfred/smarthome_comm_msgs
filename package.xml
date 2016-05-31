@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>building_msgs</name>
+  <name>smarthome_comm_msgs</name>
   <version>0.1.18</version>
-  <description>This package is building message for ROS.</description>
+  <description>This package is comm message for ROS.</description>
 
   <maintainer email="mick.gaillard@gmail.com">Mickaël Gaillard</maintainer>
   <maintainer email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</maintainer>
