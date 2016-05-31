@@ -2,8 +2,8 @@
 Changelog for package smarthome_comm_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.19 (2016-05-31)
+-------------------
 * Rename package to smarthome_comm_msgs
 * Contributors: Erwan Le Huitouze
 
